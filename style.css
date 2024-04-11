@@ -1,0 +1,12 @@
+body {
+  width: 200px;
+  height: 200px;
+  text-align: center;
+}
+
+#yellow-btn {
+  background-color: yellow;
+  padding: 15px 25px;
+  border-radius: 30px;
+  font-size: 14px;
+}
