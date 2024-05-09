@@ -1,0 +1,20 @@
+{
+  "manifest_version": 3,
+  "name": "Cheddar",
+  "description": "Chrome extension for Cheddar",
+  "version": "1.0",
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": "images/cheddar-3d-icon-128.png"
+  },
+  "icons": {
+    "16": "images/cheddar-3d-icon-16.png",
+    "32": "images/cheddar-3d-icon-32.png",
+    "48": "images/cheddar-3d-icon-48.png",
+    "128": "images/cheddar-3d-icon-128.png"
+  },
+  "permissions": [
+    "tabs",
+    "activeTab"
+  ]
+}
